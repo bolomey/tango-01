@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Open Sans:wght@400;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="agora">
+      <section class="agora-container">
+        <div class="topbar-parent">
+          <header class="topbar">
+            <div class="selector">
+              <b class="title">Gastrobar Manolo</b>
+              <div class="expand-more-wrapper">
+                <img
+                  class="expand-more-icon"
+                  alt=""
+                  src="./public/expand-more.svg"
+                />
+              </div>
+            </div>
+            <div class="notifications-wrapper">
+              <img
+                class="notifications-icon"
+                loading="lazy"
+                alt=""
+                src="./public/notifications.svg"
+              />
+            </div>
+          </header>
+          <div class="frame-wrapper">
+            <div class="avatar-parent">
+              <div class="avatar">
+                <div class="avatar-child"></div>
+                <img
+                  class="avatar-item"
+                  loading="lazy"
+                  alt=""
+                  src="./public/frame-5@2x.png"
+                />
+              </div>
+              <div class="buenos-das-jos-wrapper">
+                <div class="buenos-das-jos-container">
+                  <span class="buenos-das">Buenos días,</span>
+                  <b> José</b>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="agora-container-inner">
+          <div class="ventas-totales-del-da-parent">
+            <div class="ventas-totales-del">Ventas totales del día</div>
+            <div class="martes-31-de-marzo-wrapper">
+              <div class="martes-31-de">MARTES, 31 DE MARZO</div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="agora-inner">
+        <div class="frame-parent">
+          <div class="frame-group">
+            <div class="frame-container">
+              <div class="frame-div">
+                <div class="frame-wrapper1">
+                  <div class="parent">
+                    <b class="b">16</b>
+                    <div class="operaciones-wrapper">
+                      <div class="operaciones">Operaciones</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="control-dashboard">
+                  <div class="control-dashboard-child"></div>
+                  <div class="productos-2-lineas">TPUV</div>
+                  <img
+                    class="web-icon"
+                    loading="lazy"
+                    alt=""
+                    src="./public/web.svg"
+                  />
+                </div>
+              </div>
+              <div class="arrow-back-ios-new-parent">
+                <img
+                  class="arrow-back-ios-new-icon"
+                  loading="lazy"
+                  alt=""
+                  src="./public/arrow-back-ios-new.svg"
+                />
+
+                <div class="div">€ 3.285,05</div>
+              </div>
+              <div class="control-dashboard1">
+                <div class="control-dashboard-item"></div>
+                <div class="productos-2-lineas1">Movimientos</div>
+                <img
+                  class="euro-symbol-icon"
+                  loading="lazy"
+                  alt=""
+                  src="./public/euro-symbol.svg"
+                />
+              </div>
+            </div>
+            <div class="frame-parent1">
+              <div class="group">
+                <b class="b1">€ 107,81</b>
+                <div class="dashboard-currency">
+                  <div class="importe-medio">Importe medio</div>
+                </div>
+              </div>
+              <div class="control-dashboard-wrapper">
+                <div class="control-dashboard2">
+                  <div class="control-dashboard-inner"></div>
+                  <div class="productos-2-lineas2">Inventario</div>
+                  <img
+                    class="receipt-long-icon"
+                    loading="lazy"
+                    alt=""
+                    src="./public/receipt-long.svg"
+                  />
+                </div>
+              </div>
+              <div class="control-dashboard-container">
+                <div class="control-dashboard3">
+                  <div class="rectangle-div"></div>
+                  <div class="productos-2-lineas3">Historial</div>
+                  <img
+                    class="history-icon"
+                    loading="lazy"
+                    alt=""
+                    src="./public/history.svg"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="arrow-forward-ios-parent">
+              <img
+                class="arrow-forward-ios-icon"
+                loading="lazy"
+                alt=""
+                src="./public/arrow-forward-ios.svg"
+              />
+
+              <div class="frame-wrapper2">
+                <div class="frame-parent2">
+                  <div class="frame-wrapper3">
+                    <div class="container">
+                      <b class="b2">48</b>
+                      <div class="mesas-activas-wrapper">
+                        <div class="mesas-activas">Mesas activas</div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="control-dashboard4">
+                    <div class="control-dashboard-child1"></div>
+                    <div class="productos-2-lineas4">Productos</div>
+                    <img
+                      class="lunch-dining-icon"
+                      loading="lazy"
+                      alt=""
+                      src="./public/lunch-dining.svg"
+                    />
+                  </div>
+                  <div class="control-dashboard5">
+                    <div class="control-dashboard-child2"></div>
+                    <div class="productos-2-lineas5">Análisis</div>
+                    <img
+                      class="leaderboard-icon"
+                      loading="lazy"
+                      alt=""
+                      src="./public/leaderboard.svg"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="frame-wrapper4">
+            <div class="card-1-parent">
+              <div class="card-1">
+                <div class="card-bckg"></div>
+                <div class="frame-parent3">
+                  <div class="ocupacin-parent">
+                    <div class="ocupacin">Ocupación</div>
+                    <div class="el-local-est">El local está ocupado al 63%</div>
+                  </div>
+                  <img
+                    class="expand-more-icon1"
+                    alt=""
+                    src="./public/expand-more-1.svg"
+                  />
+                </div>
+                <div class="card-1-inner">
+                  <div class="wrapper-line-1-parent">
+                    <div class="wrapper-line-1">
+                      <img
+                        class="wrapper-line-1-child"
+                        loading="lazy"
+                        alt=""
+                        src="./public/line-1.svg"
+                      />
+                    </div>
+                    <div class="wrapper-line-2">
+                      <img
+                        class="wrapper-line-2-child"
+                        loading="lazy"
+                        alt=""
+                        src="./public/line-2.svg"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="lista-1">
+                <div class="lista-1-child"></div>
+                <div class="lista-1-item"></div>
+                <div class="list-item-title-wrapper">
+                  <div class="list-item-title">
+                    <div class="titulo">Titulo</div>
+                    <div class="el-local-est1">
+                      El local está ocupado al 63%
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="navbar">
+        <div class="nav-bar-icon-dashboard">
+          <div class="navbar-icon">
+            <img
+              class="dashboard-icon"
+              loading="lazy"
+              alt=""
+              src="./public/dashboard.svg"
+            />
+
+            <div class="texto-2-lineas">Tablero</div>
+          </div>
+        </div>
+        <div class="nav-bar-icon-dashboard1">
+          <div class="navbar-icon1">
+            <img
+              class="storefront-icon"
+              loading="lazy"
+              alt=""
+              src="./public/storefront.svg"
+            />
+
+            <div class="texto-2-lineas1">Tiendas</div>
+          </div>
+        </div>
+        <div class="nav-bar-icon-dashboard2">
+          <div class="navbar-icon2">
+            <img
+              class="supervised-user-circle-icon"
+              loading="lazy"
+              alt=""
+              src="./public/supervised-user-circle.svg"
+            />
+
+            <div class="texto-2-lineas2">Usuarios</div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>
